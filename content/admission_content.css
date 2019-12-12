@@ -1,0 +1,22 @@
+body{
+    background-color:ghostwhite;
+  }
+  h1{
+    text-align:center;
+    background-color:lightgrey;
+    padding:10px;
+
+  }
+  input{
+        margin:10px;
+        background-color: lightgrey;
+        border:none;
+        border-radius: 2px;
+        height:35px
+  }
+  .label  {
+        padding:10px;
+        margin:10px;
+        font-size:20px;
+        
+     }

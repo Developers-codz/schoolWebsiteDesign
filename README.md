@@ -1,2 +1,2 @@
-# schoolWebsiteDesign
-basic school website and management
+# SchoolManagementSystem
+this is a website for all the schools
